@@ -417,7 +417,7 @@ export function Contact() {
 
           <form className="my-8" action="https://api.web3forms.com/submit" method="POST">
 
-    <input type="hidden" name="access_key" value="20d93cad-e8a7-4514-864d-9119bc784aa2"/>
+    <input type="hidden" name="access_key" value="58f0e28e-aa6f-4038-b2e9-e764aa1530af"/>
 
 
             <div className="flex flex-col md:flex-row space-y-2 md:space-y-0 md:space-x-2 mb-4">
